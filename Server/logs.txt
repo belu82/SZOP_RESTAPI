@@ -1,0 +1,13 @@
+user id date
+UPDATE blueray SET title =' d ',director =' d ',
+      actor =' d ', genre =' d ',  playtime =' 10 ',  price =' 10 ' WHERE id = 0
+UPDATE blueray SET title ='  ',director ='  ',
+      actor ='  ', genre ='  ',  playtime ='  ',  price ='  ' WHERE id = 0
+UPDATE blueray SET title ='  ',director ='  ',
+      actor ='  ', genre ='  ',  playtime ='  ',  price ='  ' WHERE id = 0
+UPDATE blueray SET title ='  ',director ='  ',
+      actor ='  ', genre ='  ',  playtime ='  ',  price ='  ' WHERE id = 0
+UPDATE blueray SET title ='  ',director ='  ',
+      actor ='  ', genre ='  ',  playtime ='  ',  price ='  ' WHERE id = 
+UPDATE blueray SET title =' s ',director =' s ',
+      actor =' s ', genre =' s ',  playtime =' 10 ',  price =' 0 ' WHERE id = 4
